@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.background1{
+    position: absolute;
+width: 367px;
+height: 76px;
+left: 0px;
+top: 0px;
+
+background: rgba(41, 216, 184, 0.45);
+border-radius: 7px;
+}
+
+img{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    padding: 10px;
+    
+    text-align: right;
+}
+.left{
+    width: 367px;
+    height: 1024px;
+    background-color: #D9D9D9;
+    text-align: left;
+    float: left;
+    
+    
+}
+
+
+.background{
+    background: #F5F5F5;
+}
+.Library{
+    /* Library S */
+
+
+position: absolute;
+width: 220px;
+height: 68px;
+left: 392px;
+top: 16px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+
+color: #000000;
+}
+
+.atas{
+    margin-bottom: 50px;
+}
+.bebas{
+    height: 100px;
+    
+    font-size: 17px;
+}
+.main{
+    height: 100px;
+    font-size: 19px;
+}
+input{
+    height: 20px;
+    
+}
+
+.left2{
+    position: absolute;
+    width: 99px;
+    height: 39px;
+    left: 19px;
+    top: 109px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #000000;
+
+}
+.left3{
+    position: absolute;
+width: 140px;
+height: 39px;
+left: 19px;
+top: 181px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 10px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.left4{
+    /* Peminjaman */
+
+
+position: absolute;
+width: 94px;
+height: 17px;
+left: 19px;
+top: 247px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.left5{
+    /* Pengembalian */
+
+
+position: absolute;
+width: 107px;
+height: 17px;
+left: 19px;
+top: 314px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.tombol{
+    position: relative;
+width: 50px;
+height: 30px;
+left: 1050px;
+top: 865px;
+text-align: right;
+background: #D9D9D9;
+border-radius: 8px;
+}
+
